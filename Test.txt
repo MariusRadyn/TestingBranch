@@ -1,3 +1,4 @@
 Line1 Marius
 Line2 Marius
 Another new line
+Line3 Marius
